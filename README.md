@@ -585,9 +585,9 @@
        - zone-based firewalls
  - NFP is not just a single feature on a network, but rather a combination
 
+<br>
 
-
-## Exam
+## Examination
 ### Question 1
  Which two components does HMAC use to determine the authenticity and integrity of a message? (Choose two.)
 
@@ -596,6 +596,8 @@
  - The hash
  - The transform set
  
+<br>
+
 ### Question 2
 Which security term refers to a person, property, or data of value to a company?
 
@@ -604,6 +606,8 @@ Which security term refers to a person, property, or data of value to a company?
  - Threat prevention
  - Mitigation technique
  
+<br>
+
 ### Question 3
 Which example is of a function intended for cryptographic hashing?
 
@@ -612,6 +616,8 @@ Which example is of a function intended for cryptographic hashing?
  - XR12
  - MD5
  
+<br>
+
 ### Question 4
 Which of the following are two methods are used by hackers? (Choose two.)
 
@@ -620,6 +626,8 @@ Which of the following are two methods are used by hackers? (Choose two.)
  - buffer Unicode attack
  - front door attacks
  
+<br>
+
 ### Question 5
 What does the key length represent?
 
@@ -628,6 +636,8 @@ What does the key length represent?
  - Stream block size
  - Number of permutations
  
+<br>
+
 ### Question 6
 Which encryption method uses more overhead and is typically reserved for low-volume cryptographic mechanisms?
 
@@ -636,6 +646,8 @@ Which encryption method uses more overhead and is typically reserved for low-vol
  - Symmetric
  - Simple encryption
  
+<br>
+
 ### Question 7
 For the following statements, which one is the strongest symmetrical encryption algorithm?
 
@@ -645,6 +657,8 @@ For the following statements, which one is the strongest symmetrical encryption 
  - MD5
  - SHA-1
  
+<br>
+
 ### Question 8
 Which description about asymmetric encryption algorithms is correct?
 
@@ -653,6 +667,8 @@ Which description about asymmetric encryption algorithms is correct?
  - They use different keys for encryption and decryption of data.
  - They use the same key for decryption but different keys for encryption of data.
  
+<br>
+
 ### Question 9
 What is the MD5 algorithm used for?
 
@@ -661,6 +677,8 @@ What is the MD5 algorithm used for?
  - takes a variable-length message and produces a 128-bit message digest
  - takes a message less than 2^64 bits as input and produces a 160-bit message digest
  
+<br>
+
 ### Question 10
 What mechanism does asymmetric cryptography use to secure data?
 
@@ -669,6 +687,8 @@ What mechanism does asymmetric cryptography use to secure data?
  - an RSA nonce
  - an MD5 hash
  
+<br>
+
 ### Question 11
 Which component of CIA triad relate to safe data which is in transit?
 
@@ -677,6 +697,8 @@ Which component of CIA triad relate to safe data which is in transit?
  - Availability
  - Scalability
  
+<br>
+
 ### Question 12
 Which statement provides the best definition of malware?
 
@@ -685,6 +707,8 @@ Which statement provides the best definition of malware?
  - Malware is a collection of worms, viruses, and Trojan horses that is distributed as a single package.
  - Malware is tools and applications that remove unwanted programs.
  
+<br>
+
 ### Question 13
 Which option ensures that data is not modified in transit?
 
@@ -693,6 +717,8 @@ Which option ensures that data is not modified in transit?
  - Authorization
  - Confidentiality
  
+<br>
+
 ### Question 14
 Hardware locks, keypads on entry doors, badge readers, and biometric readers are all examples of which of the following security types?
 
@@ -701,6 +727,8 @@ Hardware locks, keypads on entry doors, badge readers, and biometric readers are
  - Software
  - Authentication
  
+<br>
+
 ### Question 15
 Why is UDP the "protocol of choice" for reflected DDoS attacks?
 
@@ -709,6 +737,8 @@ Why is UDP the "protocol of choice" for reflected DDoS attacks?
  - UDP is much more easily spoofed.
  - TCP cannot be used in DDoS attacks.
  
+<br>
+
 ### Question 16
 In which stage of an attack does the attacker discover devices on a target network?
 
@@ -717,6 +747,8 @@ In which stage of an attack does the attacker discover devices on a target netwo
  - Gaining access
  - Maintaining access
  
+<br>
+
 ### Question 17
 SYN flood attack is a form of ?
 
@@ -725,6 +757,8 @@ SYN flood attack is a form of ?
  - Spoofing attack
  - Man in the middle attack
  
+<br>
+
 ### Question 18
 If an attacker in a SYN flood attack uses someone else’s valid host address as the source address, the system under attack will send a large number of Synchronize/Acknowledge (SYN/ACK) packets to the
 
@@ -733,6 +767,8 @@ If an attacker in a SYN flood attack uses someone else’s valid host address as
  - local interface being attacked.
  - specified source address.
  
+<br>
+
 ### Question 19
 Which of these characteristics is a feature of AES?
 
@@ -741,6 +777,8 @@ Which of these characteristics is a feature of AES?
  - It has a variable key length
  - It should be used with key lengths greater than 1024 bits
  
+<br>
+
 ### Question 20
 Which tool can an attacker use to attempt a DDoS attack?
 
@@ -749,6 +787,8 @@ Which tool can an attacker use to attempt a DDoS attack?
  - Adware
  - Virus
  
+<br>
+
 ### Question 21
 Which of these is the best way to provide sender non-repudiation?
 
@@ -757,6 +797,8 @@ Which of these is the best way to provide sender non-repudiation?
  - pre-shared key
  - RSA signature
  
+<br>
+
 ### Question 22
 You need to create an access list that will prevent hosts in the network range of 192.168.160.0 to 192.168.191.0. Which of the following lists will you use?
 
@@ -765,6 +807,8 @@ You need to create an access list that will prevent hosts in the network range o
  - access-list 10 deny 192.168.160.0 0.0.31.255
  - access-list 10 deny 192.168.0.0 0.0.31.255
  
+<br>
+
 ### Question 23
 What is the default behavior in an ACL when there is a match on a deny statement in an ACL?
 
@@ -773,12 +817,17 @@ What is the default behavior in an ACL when there is a match on a deny statement
  -The implicit permit overrides the explicit deny in the matched entry.
  - No other processing of the ACL, for the packet being considered, is performed.
  
+<br>
+
 ### Question 24
 Will the following ACL configuration prevent 192.168.1.80 from using Telnet to reach the router at 15.2.41.1?
 
  > access-list 1 deny 192.168.1.80 0.0.0.0 access-list 1 permit any
  > 
+ > 
+ > 
  > line vty 0 4
+ > 
  > ip access-group 1 in
 
  - Yes, the configuration is perfect.
@@ -787,6 +836,8 @@ Will the following ACL configuration prevent 192.168.1.80 from using Telnet to r
  - No, the ACL is correct but the command to apply the ACL is wrong.
  - Yes, but the ACL must be extended to properly block Telnet.
  
+<br>
+
 ### Question 25
 Which statement is a guideline to be followed when designing access control lists?
 
@@ -795,14 +846,21 @@ Which statement is a guideline to be followed when designing access control list
  - Since all statements in an ACL are evaluated before they are executed, an explicit deny any statement must be written in order for an ACL to function properly.
  - Since all statements in an ACL are evaluated before they are executed, an explicit permit any statement must be written in order for an ACL to function properly.
  
+<br>
+
 ### Question 26
 Use the ____ command to remove the application of the list.
 
  > no accessgroup [ip][list #][direction]
+ > 
  > no ip [accessgroup][list #][direction]
+ > 
  > no ip access-list [list #][direction]
+ > 
  > no ip access-group [list #][direction]
  
+<br>
+
 ### Question 27
 What command would can you enter to verify that an access list has been applied on your interface?
 
@@ -811,6 +869,8 @@ What command would can you enter to verify that an access list has been applied 
  - show ip access-list
  - show ip interface
  
+<br>
+
 ### Question 28
 You have created a named access list called Blocksales. Which of the following is a valid command for applying this to packets trying to enter interface Fa0/0 of your router?
 
@@ -819,14 +879,21 @@ You have created a named access list called Blocksales. Which of the following i
  - (config-if)#ip access-group Blocksales in
  - (config-if)#Blocksales ip access-list in
  
+<br>
+
 ### Question 29
 Which of the following commands matches all IP packets that are sourced from subnet 172.16.32.0/22, destined to subnet 172.16.48.0/23?
 
 access-list 101 permit ip 172.16.32.0 0.0.3.63 172.16.48.0 0.0.1.127
+
  > access-list 101 permit ip 172.16.32.0 0.0.3.0 172.16.48.0 0.0.1.0
+ > 
  > access-list 101 permit ip 172.16.32.0 0.0.3.255 172.16.48.0 0.0.1.255
+ > 
  > access-list 101 permit ip 172.16.32.0 0.0.3.255 172.16.48.0 0.0.3.255
  
+<br>
+
 ### Question 30
 Regarding extended IP access lists, the ____ keyword is short for a wildcard mask of 0.0.0.0.
 
@@ -835,6 +902,8 @@ Regarding extended IP access lists, the ____ keyword is short for a wildcard mas
  - none
  - all
  
+<br>
+
 ### Question 31
 You are the network administrator for the Widgets Company.  You configure a Web server on the network using the IP address 64.12.13.15. 
 
@@ -847,36 +916,58 @@ Which access list should you configure to accomplish this task?
  - access-list 1 permit ip host 64.12.13.15 any
  - access-list 101 permit ip host 64.12.13.15 any
  
+<br>
+
 ### Question 32
 Unauthorized users have used Telnet to gain access to a company router. The network administrator wants to configure and apply an access list to allow Telnet access to the router, but only from the network administrator’s computer.
 
 Which group of commands would be the best choice to allow only the IP address 172.16.3.3 to have Telnet access to the router?
 
  > access-list 101 permit tcp any host 172.16.3.3 eq telnet
+ > 
  > interface s0/0
+ > 
  > ip access-group 101 in
  > 
+ > 
+ > 
  > access-list 3 permit host 172.16.3.3
+ > 
  > line vty 0 4
+ > 
  > access-class 3 in
  > 
+ > 
+ > 
  > access-list 101 permit tcp any host 172.16.3.3 eq telnet
+ > 
  > access-list 101 permit ip any any
+ > 
  > interface s0/0
+ > 
  > ip access-group 101 in
  > 
+ > 
+ > 
  > access-list 3 permit host 172.16.3.3
+ > 
  > line vty 0 4
+ > 
  > ip access-group 3 in
  
+<br>
+
 ### Question 33
 You are the network administrator for the Widgets Company.  As a part of improving network security, you are configuring ACLs on the routers in the network.
 
 You wnat only host with IP addresses 172.16.20.4 through 172.16.20.7 and the host with IP address 172.16.22.4 to be able to telnet into Router A.  You configure the following on Router A:
 
  > access-list 1 permit 172.16.20.4 0.0.0.7
+ > 
  > access-list 1 permit 172.16.22.4
+ > 
  > line vty 0 4
+ > 
  > access-class 1 in
 
 You discover during testing that a host with an IP address of 172.16.20.3 is able to telnet into the router. What would you do to correct this problem?
@@ -887,6 +978,8 @@ You discover during testing that a host with an IP address of 172.16.20.3 is abl
  - Change access-list 1 permit 172.16.20.4 0.0.0.7 to access-list deny 172.16.20.4 0.0.0.3
  - Delete access-list 1 permit 172.16.20.4 from the end of the ACL
  
+<br>
+
 ### Question 34
 ACL 1 has three statements, in the following order, with address and wildcard mask values as follows:
 
@@ -901,7 +994,9 @@ If a router tried to match a packet sourced from IP address 1.1.1.1 using this A
  - Third
  - Implied deny at the end of the ACL
  
-### Question 37
+<br>
+
+### Question 35
 Which characteristic of the TACACS+ protocol is true?
 
  - Uses UDP ports 1645 or 1812
@@ -909,8 +1004,9 @@ Which characteristic of the TACACS+ protocol is true?
  - Is an open RFC standard protocol
  - Separates AAA functions
  
+<br>
 
-### Question 38
+### Question 36
 Which option is a characteristic of the RADIUS protocol?
 
  - Uses TCP
@@ -918,7 +1014,9 @@ Which option is a characteristic of the RADIUS protocol?
  - Combines authentication and authorization in one process
  - Supports bi-directional challenge
 
-### Question 39
+<br>
+
+### Question 37
 What is the objective of the aaa authentication login console-in local command?
 
  - It specifies the login authorization method list named console-in using the local RADIUS username-password database.
@@ -926,8 +1024,9 @@ What is the objective of the aaa authentication login console-in local command?
  - It specifies the login authentication method list named console-in using the local user database on the router.
  - It specifies the login authentication list named console-in using the local username- password database on the router.
  
- 
-### Question 40
+<br>
+
+### Question 38
 Which two of the following are features that match with TACACS+? (choose two)
 
  - Transport protocol is TCP and it uses bidirectional CHAP
