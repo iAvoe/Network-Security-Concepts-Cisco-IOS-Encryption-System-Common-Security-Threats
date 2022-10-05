@@ -446,13 +446,13 @@
    - Hide malicious code inside
    - Difficult to detect
    - **Flexible concept**:
-     - Security software disabler Trojan
-     - Remote-access Trojan
-     - Data-sending Trojan
-     - Destructive Trojan
-     - Proxy Trojan
-     - DoS Trojan
-     - FTP Trojan
+    - Security software disabler Trojan
+    - Remote-access Trojan
+    - Data-sending Trojan
+    - Destructive Trojan
+    - Proxy Trojan
+    - DoS Trojan
+    - FTP Trojan
  - **Malwares**
    - **Rootkits**: gain root priviledge for hacker and hide it's intrusion
    - **Phishing**: Attempts to convince people to divulge sensitive inforamtion
@@ -466,30 +466,30 @@
 ### Network Security Domains
 
  - There are 12 network security domains specified by ISO/IEC 27002
-   1. Risk Assessment
+   1. **Risk Assessment**
      - Quantity and quality value of risk related to risk situations
-   2. Security Policy
+   2. **Security Policy**
      - Document that addresses the constraints and behaviors of members
      - How data can be accessible, & by whom
-   3. Org. of Information Security
+   3. **Org. of Information Security**
      - Governance model for info security
-   4. Asset Mgmt.
+   4. **Asset Mgmt.**
      - Inventory of & classification scheme for info assets
-   5. Human Resources (HR) Security
+   5. **Human Resources (HR) Security**
      - Security procedures relating to employees joining, leaving org.
-   6. Physical & Environmental Security
+   6. **Physical & Environmental Security**
      - Protection of computer facilities
-   7. Comms & Operations Mgmt.
+   7. **Comms & Operations Mgmt.**
      - Mgmt. on technical security controls in systems, networks
-   8. Information System Acquisition, Development & Maintenance
+   8. **Information System Acquisition, Development & Maintenance**
      - Integration of security info apps
-   9. Access Control
+   9. **Access Control**
      - Clear definition of user ristriction
-   10. Information Security Incident Mgmt.
+   10. **Information Security Incident Mgmt.**
      - How to anticipate and respond to inforamtion security breaches
-   11. Business Continuity Mgmt.
+   11. **Business Continuity Mgmt.**
      - protection, maintenance and recovery of critical systems
-   12. Compliance
+   12. **Compliance**
      - process of ensuring conformance with security policies, standards
 
 <br>
